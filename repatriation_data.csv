@@ -1,0 +1,57 @@
+Flight_ID,Date_repatriated,Number_repatriated,Number_tested,Total_positive_confirmed,Point_tested,Positive_at_initial test,Symptomatic_at_initial_test,Asymptomatic_at_initial_test,Asymptomatic_and_later_developed_symptoms,Total_symptomatic,Total_asymptomatic,Date_quarantine_ended,Quarantine_ended
+japan_fl1,29/01/2020,206,204,5,arrival,3,1,2,1,4,1,12/02/2020,yes
+usa_fl1,29/01/2020,195,195,0,arrival,0,0,0,0,0,0,11/02/2020,yes
+japan_fl2,30/01/2020,210,210,5,arrival,2,0,2,0,3,2,07/02/2020,yes
+singapore_fl1,30/01/2020,92,92,5,unknown,1,1,0,0,2,3,13/02/2020,yes
+japan_fl3,31/01/2020,149,149,3,arrival,2,1,1,1,2,1,14/02/2020,yes
+uk_fl1,31/01/2020,109,25,0,unknown,0,0,0,0,0,0,15/02/2020,yes
+southkorea_fl1,31/01/2020,368,368,2,unknown,2,0,0,0,0,0,15/02/2020,yes
+france_fl1,31/01/2020,180,180,0,arrival,0,0,0,0,0,0,14/02/2020,yes
+germany_fl1,01/02/2020,115,115,2,arrival,2,0,2,0,0,2,16/02/2020,yes
+southkorea_fl2,01/02/2020,333,333,0,unknown,0,0,0,0,0,0,16/02/2020,yes
+jordan_fl1,01/02/2020,71,25,0,later,0,0,0,0,0,0,10/02/2020,yes
+india_fl1,01/02/2020,324,324,0,unknown,0,0,0,0,0,0,18/02/2020,yes
+mongolia_fl1,01/02/2020,31,31,0,arrival,0,0,0,0,0,0,19/02/2020,yes
+turkey_fl1,01/02/2020,42,42,0,unknown,0,0,0,0,0,0,14/02/2020,yes
+saudiarabia_fl1,02/02/2020,10,10,0,unknown,0,0,0,0,0,0,17/02/2020,yes
+indonesia_fl1,02/02/2020,243,0,0,-,0,0,0,0,0,0,15/02/2020,yes
+france_fl2,02/02/2020,254,215,1,unknown,1,0,0,0,0,0,16/02/2020,yes
+kazakhstan_fl1,02/02/2020,89,89,0,unknown,0,0,0,0,0,0,16/02/2020,yes
+india_fl2,02/02/2020,330,330,0,unknown,0,0,0,0,0,0,19/02/2020,yes
+italy_fl1,03/02/2020,56,56,1,later,1,1,0,0,1,0,21/02/2020,yes
+taiwan_fl1,03/02/2020,247,5,1,arrival,1,1,0,0,1,0,18/02/2020,yes
+morocco_fl1,03/02/2020,167,167,0,unknown,0,0,0,0,0,0,22/02/2020,yes
+egypt_fl1,03/02/2020,301,301,0,unknown,0,0,0,0,0,0,17/02/2020,yes
+uzbekistan_fl1,04/02/2020,250,250,0,arrival,0,0,0,0,0,0,18/02/2020,yes
+thailand_fl1,04/02/2020,138,138,1,arrival,0,5,0,0,1,0,22/02/2020,yes
+malaysia_fl1,04/02/2020,107,107,2,arrival,2,0,2,0,0,0,18/02/2020,yes
+australia _fl1,04/02/2020,242,14,0,unknown,0,0,0,0,0,0,18/02/2020,yes
+usa_fl2,05/02/2020,178,1,0,unknown,0,0,0,0,0,0,18/02/2020,yes
+usa_fl3,05/02/2020,166,5,1,unknown,1,1,0,0,1,0,18/02/2020,yes
+uzbekistan_fl2,05/02/2020,84,84,0,arrival,0,0,0,0,0,0,19/02/2020,yes
+newzealand_fl1,05/02/2020,193,2,0,unknown,0,0,0,0,0,0,19/02/2020,yes
+russia_fl1,05/02/2020,144,144,0,unknown,0,0,0,0,0,0,19/02/2020,yes
+iran_fl1,05/02/2020,141,56,0,unknown,0,0,0,0,0,0,17/02/2020,yes
+canada_fl1,06/02/2020,176,0,0,-,0,0,0,0,0,0,21/02/2020,yes
+uzbekistan_fl3,06/02/2020,251,251,0,arrival,0,0,0,0,0,0,20/02/2020,yes
+japan_fl4,07/02/2020,198,198,1,arrival,1,1,0,0,1,0,21/02/2020,yes
+usa_fl4,07/02/2020,104,2,1,unknown,1,1,0,0,1,0,20/02/2020,yes
+usa_fl5,07/02/2020,148,2,1,unknown,1,0,0,0,0,0,20/02/2020,yes
+brazil_fl1,08/02/2020,40,34,0,arrival,0,0,0,0,0,0,23/02/2020,yes
+brunei_fl1,08/02/2020,2,0,0,-,0,0,0,0,0,0,NA,yes inferred
+singapore_fl2,09/02/2020,174,174,2,unknown,0,0,0,0,0,2,NA,yes inferred
+philippines_fl1,09/02/2020,49,0,0,-,0,0,0,0,0,0,22/02/2020,yes
+uk_fl2,09/02/2020,200,179,0,unknown,0,0,0,0,0,0,23/02/2020,yes
+australia_fl2,09/02/2020,266,0,0,-,0,0,0,0,0,0,25/02/2020,yes
+vietnam_fl1,10/02/2020,30,30,0,unknown,0,0,0,0,0,0,21/02/2020,yes
+canada_fl2,11/02/2020,185,0,0,-,0,0,0,0,0,0,NA,yes inferred
+southkorea_fl3,12/02/2020,147,145,0,arrival,0,0,0,0,0,0,13/02/2020,yes
+japan_fl5,16/02/2020,65,65,1,arrival,1,1,0,0,1,0,17/02/2020,yes
+nepal_fl1,16/02/2020,175,175,0,arrival,0,0,0,0,0,0,02/03/2020,yes
+ukraine_fl1,20/02/2020,74,74,0,later,0,0,0,0,0,0,NA,yes inferred
+france_fl3,20/02/2020,63,43,1,unknown,0,0,0,0,0,1,NA,yes inferred
+malaysia_fl2,25/02/2020,66,66,0,arrival,0,0,0,0,0,0,NA,yes
+colombia_fl1,27/02/2020,15,15,0,arrival,0,0,0,0,0,0,NA,yes
+sri lanka_fl1,01/02/2020,33,0,0,-,0,0,0,0,0,0,NA,yes inferred
+bangladesh_fl1,31/01/2020,312,0,0,-,0,0,0,0,0,0,16/02/2020,yes
+myanmar_fl1,02/02/2020,59,0,0,-,0,0,0,0,0,0,NA,yes inferred
